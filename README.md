@@ -46,6 +46,11 @@ The **Exercise Time** metric helps track how long an individual spends on physic
 ![Dashboard Screenshot](https://github.com/Stanley100M/FITNESS_DASHBOARD/blob/main/Stay%20Fit.JPG?raw=true)
 
 
+## Files in this Repository:
+
+- **Power BI Dashboard**: [Stay_Fit_app_design.pbix](./Stay_Fit_app_design.pbix)
+- **Fitness Data (Excel)**: [STAY_FIT_APP.xlsx](./STAY_FIT_APP.xlsx)
+
 ## Data Source
 
 The dashboard relies on fitness data, which could be provided in the form of:
