@@ -1,4 +1,4 @@
-# Fitness Dashboard (Power BI)
+# Stay Fit Dashboard (Power BI)
 
 This repository contains a **Power BI dashboard** for tracking and visualizing fitness data, including metrics such as heart rate, daily steps taken, daily calories, and total exercise sessions for different individuals. The dashboard is designed to help monitor the fitness progress of different individuals and compare it against predefined targets.
 
@@ -40,6 +40,11 @@ The **Exercise Time** metric helps track how long an individual spends on physic
   - **Total Exercise Sessions**: Represents the total number of exercise sessions over time, compared against the target goal.
 - **Target Comparison**: Each of the four stacked bar charts provides a clear view of the individual's performance relative to their target goals, helping users easily assess where they are meeting or falling short of their fitness objectives.
 - **Customizable Filters**: Filters allow users to select specific individuals and time periods, enabling personalized and detailed tracking of fitness metrics for any given date range.
+
+
+
+![Dashboard Screenshot](https://github.com/Stanley100M/FITNESS_DASHBOARD/blob/main/Stay%20Fit.JPG?raw=true)
+
 
 ## Data Source
 
